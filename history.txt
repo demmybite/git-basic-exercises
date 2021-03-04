@@ -1,0 +1,30 @@
+    1  cd ../..
+    2  cd cd Umuzi_tqstem/
+    3  cd Umuzi_tqstem/
+    4  cd git-basic-exercises/
+    5  git status
+    6  cat milkshakes.md 
+    7  nano milkshakes.md 
+    8  nano milkshakes.md 
+    9  git status
+   10  git add .
+   11  git commit -m "added initial flavours"
+   12  git config --global user.name "demmybite0608"
+   13  git config --global user.email "ademola.dan0608@gmail.com"
+   14  git log
+   15  git push -f origin HEAD^:milkshake-flavours
+   16  git push -f origin HEAD^:milkshake-flavours
+   17  git rebase -i
+   18  git rebase -i HEAD~2
+   19  ls
+   20  git status
+   21  git log
+   22  git rebase -i HEAD~2
+   23  git status
+   24  git log
+   25  git checkout master
+   26  ls
+   27  git checkout -b history
+   28  git log
+   29  git branch
+   30  history > history.txt
